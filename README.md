@@ -8,4 +8,4 @@ As of September 2021, the project has over 5000 lines of code, mostly in JavaScr
 I am most proficient with JavaScript, because of this project, but I also have used Python and C#, as well as HTML and CSS    
   
 If you would like to reach me, the fastest response will be on discord.  
-You can find me as the owner of [the Bot's support server](https://discord.gg/fUUutjXXgS), alternatively, you can try to find me directly, my username (correct as of 22/09/2021) is `@[1M] Coob#7869` and my ID is `254360775903150083`
+You can find me as the owner of [the Bot's support server](https://discord.gg/fUUutjXXgS), alternatively, you can try to find me directly, my username (correct as of the most recent commit) is `@Coob#7869` and my ID is `254360775903150083`
