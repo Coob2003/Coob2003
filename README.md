@@ -1,6 +1,7 @@
 ### Hi, I am Coob
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=Coob2003&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=Coob2003&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true)<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coob2003&layout=compact&theme=vue-dark)
 Currently, my main project is a general use, multi-purpose bot for Discord, covering areas such as Moderation, Stats Tracking, and others.  
 This is under a private repo, so I dont think it is being counted in the stats board above.  
 As of September 2021, the project has over 5000 lines of code, mostly in JavaScript (predominantly Node.js), but also partly in HTML (EJS) and CSS  
